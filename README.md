@@ -1,7 +1,7 @@
 ## Usage
 
 1. run `source("download_data.R")` to download and subset data into `data` and `subData` variables
-2. run `source()` on each file to plot data into corresponding PNG file
+2. run `source()` on each file (`plot1.R`, `plot2.R`, `plot3.R`, `plot4.R`) to plot data into corresponding PNG file
 
 ## Introduction
 
