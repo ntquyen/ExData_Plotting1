@@ -1,3 +1,8 @@
+## Usage
+
+1. run `source("download_data.R")` to download and subset data into `data` and `subData` variables
+2. run `source()` on each file to plot data into corresponding PNG file
+
 ## Introduction
 
 This assignment uses data from
